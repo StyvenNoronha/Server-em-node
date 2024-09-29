@@ -1,0 +1,13 @@
+{
+  "name": "aula_01",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "type": "module", 
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "styven cesar noronha",
+  "license": "ISC",
+  "description": "Fundamentos de node.js"
+}
